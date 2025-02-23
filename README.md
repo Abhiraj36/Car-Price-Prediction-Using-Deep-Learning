@@ -28,6 +28,17 @@ The project follows a simple yet effective pipeline:
 - Matplotlib
 - Seaborn
 
+Future Work
+
+Experiment with different model architectures and hyperparameters to improve accuracy.
+Add more features (e.g., brand, car condition) to the dataset for better predictions.
+Explore other machine learning models (e.g., Random Forest, Gradient Boosting) for comparison.
+
+Acknowledgments
+
+Thanks to the TensorFlow and Keras documentation for providing easy-to-follow tutorials and examples.
+The project could be further improved with a larger dataset and more features.
+
 You can install the required packages using the following:
 
 ```bash
